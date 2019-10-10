@@ -1,7 +1,7 @@
-let fedorPoints = 19;
-let petrPoints = 15;
+let fedorPoints = 15;
+let petrPoints = 19;
 
-if ( fedorPoints <= 21 && !( fedorPoints > 21) && !( fedorPoints < petrPoints) && !(petrPoints > 21) && !(fedorPoints === petrPoints) ) {
+if ( fedorPoints <= 21 && !( fedorPoints > 21) && ( fedorPoints > petrPoints) && !(fedorPoints === petrPoints) ) {
     console.log("Федя выиграл со счетом " + fedorPoints + "!!")
 } else if (fedorPoints === petrPoints) {
     console.log("Ничья ребятки, давайте заного)")
