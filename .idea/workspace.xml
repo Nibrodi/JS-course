@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a4297ee-fc57-4907-9667-ac8256c9b637" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ddd/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson-2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson-2/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,24 +60,28 @@
     <configuration name="dataType.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-1/dataType.js" working-dir="$PROJECT_DIR$/Lesson-1">
       <method v="2" />
     </configuration>
-    <configuration name="index.html.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-1/index.html.js" working-dir="$PROJECT_DIR$/Lesson-1">
+    <configuration name="index (1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ddd/index (1).js" working-dir="$PROJECT_DIR$/ddd">
+      <method v="2" />
+    </configuration>
+    <configuration name="index (2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ddd/index (2).js" working-dir="$PROJECT_DIR$/ddd">
       <method v="2" />
     </configuration>
     <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-2/index.js" working-dir="$PROJECT_DIR$/Lesson-2">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-1/index.js" working-dir="$PROJECT_DIR$/Lesson-1">
+    <configuration name="index.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ddd/index.js" working-dir="$PROJECT_DIR$/ddd">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-1/test.js" working-dir="$PROJECT_DIR$/Lesson-1">
+    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-1/index.js" working-dir="$PROJECT_DIR$/Lesson-1">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.index.js (1)" />
+        <item itemvalue="Node.js.index (2).js" />
+        <item itemvalue="Node.js.index.js (2)" />
+        <item itemvalue="Node.js.index (1).js" />
         <item itemvalue="Node.js.dataType.js" />
-        <item itemvalue="Node.js.test.js" />
-        <item itemvalue="Node.js.index.html.js" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +98,7 @@
       <workItem from="1570581079313" duration="318000" />
       <workItem from="1570581725746" duration="287000" />
       <workItem from="1570582045217" duration="2691000" />
-      <workItem from="1570631162834" duration="4510000" />
+      <workItem from="1570631162834" duration="9209000" />
     </task>
     <servers />
   </component>
@@ -111,5 +117,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ddd/index (2).js</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
