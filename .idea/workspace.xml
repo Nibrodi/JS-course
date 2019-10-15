@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a4297ee-fc57-4907-9667-ac8256c9b637" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson-4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson-4/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -58,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.index.js (1)">
+  <component name="RunManager" selected="Node.js.scriptJS.js">
     <configuration name="3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/3.js" working-dir="$PROJECT_DIR$/test">
       <method v="2" />
     </configuration>
@@ -74,16 +74,16 @@
     <configuration name="js1_3_index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/js1_3_index.js" working-dir="$PROJECT_DIR$/test">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-3/test.js" working-dir="$PROJECT_DIR$/Lesson-3">
+    <configuration name="scriptJS.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-5/scriptJS.js" working-dir="$PROJECT_DIR$/Lesson-5">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.scriptJS.js" />
         <item itemvalue="Node.js.index.js (1)" />
         <item itemvalue="Node.js.js1_3_index.js" />
         <item itemvalue="Node.js.3.js" />
         <item itemvalue="Node.js.index.js (3)" />
-        <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +100,7 @@
       <workItem from="1570581079313" duration="318000" />
       <workItem from="1570581725746" duration="287000" />
       <workItem from="1570582045217" duration="2691000" />
-      <workItem from="1570631162834" duration="21485000" />
+      <workItem from="1570631162834" duration="26848000" />
     </task>
     <servers />
   </component>
