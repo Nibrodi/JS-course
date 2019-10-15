@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a4297ee-fc57-4907-9667-ac8256c9b637" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson-5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-6/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -58,32 +58,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.scriptJS.js">
-    <configuration name="3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/3.js" working-dir="$PROJECT_DIR$/test">
+  <component name="RunManager" selected="Node.js.index.js (1)">
+    <configuration name="hw5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/домашки /hw5.js" working-dir="$PROJECT_DIR$/домашки ">
       <method v="2" />
     </configuration>
-    <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-4/index.js" working-dir="$PROJECT_DIR$/Lesson-4">
+    <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-6/index.js" working-dir="$PROJECT_DIR$/Lesson-6">
       <method v="2" />
     </configuration>
-    <configuration name="index.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-3/index.js" working-dir="$PROJECT_DIR$/Lesson-3">
+    <configuration name="index.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/домашки /index.js" working-dir="$PROJECT_DIR$/домашки ">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-1/index.js" working-dir="$PROJECT_DIR$/Lesson-1">
       <method v="2" />
     </configuration>
-    <configuration name="js1_3_index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/js1_3_index.js" working-dir="$PROJECT_DIR$/test">
+    <configuration name="js1_5_index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/домашки /js1_5_index.js" working-dir="$PROJECT_DIR$/домашки ">
       <method v="2" />
     </configuration>
-    <configuration name="scriptJS.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-5/scriptJS.js" working-dir="$PROJECT_DIR$/Lesson-5">
+    <configuration name="lesson_5_homework.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/домашки /lesson_5_homework.js" working-dir="$PROJECT_DIR$/домашки ">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.scriptJS.js" />
         <item itemvalue="Node.js.index.js (1)" />
-        <item itemvalue="Node.js.js1_3_index.js" />
-        <item itemvalue="Node.js.3.js" />
-        <item itemvalue="Node.js.index.js (3)" />
+        <item itemvalue="Node.js.index.js (2)" />
+        <item itemvalue="Node.js.lesson_5_homework.js" />
+        <item itemvalue="Node.js.js1_5_index.js" />
+        <item itemvalue="Node.js.hw5.js" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +101,7 @@
       <workItem from="1570581725746" duration="287000" />
       <workItem from="1570582045217" duration="2691000" />
       <workItem from="1570631162834" duration="26848000" />
+      <workItem from="1571150793779" duration="6025000" />
     </task>
     <servers />
   </component>
