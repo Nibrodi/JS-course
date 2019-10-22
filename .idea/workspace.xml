@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a4297ee-fc57-4907-9667-ac8256c9b637" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/new.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,14 +58,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.films.js">
+  <component name="RunManager" selected="Node.js.new.js">
     <configuration name="films.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-7/films.js" working-dir="$PROJECT_DIR$/Lesson-7">
       <method v="2" />
     </configuration>
     <configuration name="hw6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testDZ/hw6.js" working-dir="$PROJECT_DIR$/testDZ">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-6/index.js" working-dir="$PROJECT_DIR$/Lesson-6">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lesson-1/index.js" working-dir="$PROJECT_DIR$/Lesson-1">
@@ -76,13 +74,16 @@
     <configuration name="lesson6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testDZ/lesson6.js" working-dir="$PROJECT_DIR$/testDZ">
       <method v="2" />
     </configuration>
+    <configuration name="new.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/new.js" working-dir="$PROJECT_DIR$/test">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.new.js" />
         <item itemvalue="Node.js.films.js" />
         <item itemvalue="Node.js.js1_6_index.js" />
         <item itemvalue="Node.js.lesson6.js" />
         <item itemvalue="Node.js.hw6.js" />
-        <item itemvalue="Node.js.index.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +102,7 @@
       <workItem from="1570582045217" duration="2691000" />
       <workItem from="1570631162834" duration="26848000" />
       <workItem from="1571150793779" duration="6238000" />
-      <workItem from="1571393440457" duration="1511000" />
+      <workItem from="1571393440457" duration="2258000" />
     </task>
     <servers />
   </component>
